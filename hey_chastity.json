@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "hey chastity",
-  "author": "Blinky",
+  "author": "S8n667",
   "website": "n/a",
   "model": "hey_chastity.tflite",
   "version": 1,
